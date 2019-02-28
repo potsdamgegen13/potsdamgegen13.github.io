@@ -43,7 +43,9 @@ Dafür werden wir im Namen der Demokratie und des freien Internets am Samstag, d
     
 * Keine Ausnahmen selbst für Dienste, die von Einzelpersonen oder Kleinunternehmen betrieben werden – darunter fallen wahrscheinlich auch Blogs und Webseiten, die auf irgendeine Weise monetarisiert werden (also Werbung enthalten o.Ä.).
 
-Das Leistungsschutzrecht hat seinen Vorbild im deutschen Leistungsschutzrecht, daher ist der folgende Beitrag des "Elektrischen Reporters" leider auch heute wieder aktuell.
+Den kompletten Text zu Artikel 11 findet ihr [hier als pdf](https://juliareda.eu/wp-content/uploads/2019/02/Art_11_unofficial.pdf).
+
+Das Leistungsschutzrecht hat seinen Ursprung im deutschen Leistungsschutzrecht, daher ist der folgende Beitrag des "Elektrischen Reporters" leider auch heute wieder aktuell.
 
 <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/ph3XfZvpIZo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -54,6 +56,8 @@ Das Leistungsschutzrecht hat seinen Vorbild im deutschen Leistungsschutzrecht, d
 * Zusätzlich müssen alle Dienste außer die allerkleinsten und allerneuesten alles in ihrer Macht stehende tun, um Inhalte von Vornherein zu blockieren, bei denen es sich um unerlaubte Kopien handeln könnte. Sie müssen aktiv nach Kopien von Werken (und Teilen davon) Ausschau halten, die Rechteinhaber bei ihnen hinterlegt haben. Das geht nur mit Uploadfiltern, die naturgemäß sowohl sehr teuer als auch sehr fehleranfällig sind.
 
 * Sollte ein Gericht jemals feststellen, dass ein Dienst nicht genügend Anstrengungen zur Lizensierung oder Filterung unternommen hat, wird dieser für Urheberrechtsverletzungen seiner Nutzer*innen direkt haftbar gemacht, als ob die Betreiberfirma sie selbst begangen hätte. Diese Drohung wird dazu führen, dass Dienste bei der Befolgung des Gesetzes sogar überschießen werden, um auf der sicheren Seite zu sein – mit um so mehr Einschränkungen für unsere Redefreiheit.
+
+Den kompletten Text zu Artikel 11 findet ihr [hier als pdf](https://juliareda.eu/wp-content/uploads/2019/02/Art_13_unofficial.pdf).
 
 Zu den Uploadfiltern gibt es auch wieder ein schönes Video von Alexander Lehmann.
 
