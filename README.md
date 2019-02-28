@@ -32,7 +32,7 @@ Dafür werden wir im Namen der Demokratie und des freien Internets am Samstag, d
 
 ## Demo Route
 
-(map.png)
+<img src="map.png" alt="vorläufige Route">
 [Zur Karte](http://umap.openstreetmap.fr/en/map/routenplanung-23032019_297763)
 
 ## Hintergrund
