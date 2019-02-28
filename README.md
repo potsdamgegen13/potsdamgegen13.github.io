@@ -63,6 +63,34 @@ Zu den Uploadfiltern gibt es auch wieder ein schönes Video von Alexander Lehman
 
 <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/X9SVf57ii1w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Das sagen andere...
+
+* [Electronic Frontier Foundation, (pdf)](https://www.eff.org/files/2018/06/13/article13letter.pdf)
+* [Tim Berners Lee und Jimmy Wales](https://www.golem.de/news/offener-brief-jimmy-wales-und-tim-berners-lee-warnen-vor-uploadfiltern-1806-134935.html)
+* [Offener Brief](http://docs.dpaq.de/13301-offenerbrief_uploadfilter_voss.pdf) 
+  * Bitkom e. V.
+  * Verbraucherzentrale Bundesverband e. V.
+  * Wikimedia Deutschland e. V.
+  * Bundesverband Deutsche Startups e. V.
+  * Bundesverband Digitale Wirtschaft e. V. (BVDW)
+  * Bundesverband IT-Mittelstand e. V. (BITMi)
+  * Bundesverband mittelständische Wirtschaft Unternehmerverband Deutschland e. V. (BVMW)
+  * Chaos Computer Club e. V.
+  * D64 – Zentrum für digitalen Fortschritt e. V.
+  * Der Arbeitskreis gegen Internetsperren und Zensur
+  * Deutscher Gründerverband e. V.
+  * Digitale Gesellschaft e. V.
+  * eco – Verband der Internetwirtschaft e. V.
+  * Jugendpresse Deutschland e. V.
+  * Open Knowledge Foundation Deutschland e. V
+* [D64, cnetz, Load e.V. (Digitalverbände der Parteien)](https://www.load-ev.de/wp-content/uploads/2018/06/180629_Schreiben-EP_Uploadfilter_final.pdf)
+
+## Das Demobündnis
+
+Zum 23.03.2019 mobilisieren zahlreiche Gruppen zu dezentralen Protesten in vielen europäischen Städten. Das Potsdamer Demobündnis ist noch im Aufbau. Sobald wir alle Zusagen haben, werdet ihr auf dieser Seite alle Partnerinnen aufgelistet finden.
+
+Ihr kommt nicht aus Potsdam und möchtet dennoch demonstrieren? [Schaut hier vorbei](https://savetheinternet.info/demos) ob es in Eurer Stadt bereits eine Demonstration gibt, oder [meldet einfach selbst eine Demonstration an](https://netzpolitik.org/2019/protest-auf-die-strasse-bringen-zwoelf-tipps-fuer-deine-erste-demo/).
+
 ## Code of Conduct
 
 Innerhalb des Demobündnisses legen wir Wert darauf, dass Menschen unabhängig von Geschlecht, sexueller Orientierung, Herkunft, Glauben, Aussehen, Religion oder Alter ohne Belästigungen demonstrieren können. Wir dulden keine sexistischen, rassistischen, homo- oder transfeindlichen, ableistischen oder anderweitig marginalisierte Gruppen diskriminierenden Äußerungen – auch nicht, wenn sie „nur als Witz“ gedacht waren.
