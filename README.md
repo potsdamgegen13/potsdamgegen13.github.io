@@ -1,6 +1,6 @@
 # Potsdam für ein freies Internet
 
-## Demo: 23.03.2019 - 10:00 Uhr Luisenplatz Potsdam
+## 23.03.2019 - 10:00 Uhr Luisenplatz
 
 ## Gegen Artikel 11 und 13
 
