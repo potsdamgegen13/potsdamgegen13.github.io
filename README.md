@@ -39,9 +39,23 @@ Dafür werden wir im Namen der Demokratie und des freien Internets am Samstag, d
 
 ### Leistungsschutzrecht (Art. 11)
 
+* Die Wiedergabe von mehr als „einzelnen Worten oder sehr kurzen Textausschnitten“ von Nachrichten wird eine Lizenz erfordern. Darunter fallen wahrscheinlich viele jener Anreißer, die heute üblicherweise als Teil eines Links angezeigt werden, um darzustellen, wohin dieser führt. Gerichte werden letztendlich interpretieren müssen, was „sehr kurz“ in der Praxis heißt – bis dahin wird beim Setzen von Links (mit Anreißern) große Unsicherheit herrschen.
+    
+* Keine Ausnahmen selbst für Dienste, die von Einzelpersonen oder Kleinunternehmen betrieben werden – darunter fallen wahrscheinlich auch Blogs und Webseiten, die auf irgendeine Weise monetarisiert werden (also Werbung enthalten o.Ä.).
+
+Das Leistungsschutzrecht hat seinen Vorbild im deutschen Leistungsschutzrecht, daher ist der folgende Beitrag des "Elektrischen Reporters" leider auch heute wieder aktuell.
+
 <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/ph3XfZvpIZo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Uploadfilter (Art. 13)
+
+* Kommerzielle Webseiten und Apps, wo Nutzer*innen Beiträge veröffentlichen können, müssen „bestmögliche Anstrengungen“ unternehmen, vorab Lizenzen zu erwerben für alles, was ihre Nutzer*innen möglicherweise posten könnten – also: alle Inhalte der Welt, die unter das Urheberrecht fallen. Eine unmögliche Aufgabe.
+
+* Zusätzlich müssen alle Dienste außer die allerkleinsten und allerneuesten alles in ihrer Macht stehende tun, um Inhalte von Vornherein zu blockieren, bei denen es sich um unerlaubte Kopien handeln könnte. Sie müssen aktiv nach Kopien von Werken (und Teilen davon) Ausschau halten, die Rechteinhaber bei ihnen hinterlegt haben. Das geht nur mit Uploadfiltern, die naturgemäß sowohl sehr teuer als auch sehr fehleranfällig sind.
+
+* Sollte ein Gericht jemals feststellen, dass ein Dienst nicht genügend Anstrengungen zur Lizensierung oder Filterung unternommen hat, wird dieser für Urheberrechtsverletzungen seiner Nutzer*innen direkt haftbar gemacht, als ob die Betreiberfirma sie selbst begangen hätte. Diese Drohung wird dazu führen, dass Dienste bei der Befolgung des Gesetzes sogar überschießen werden, um auf der sicheren Seite zu sein – mit um so mehr Einschränkungen für unsere Redefreiheit.
+
+Zu den Uploadfiltern gibt es auch wieder ein schönes Video von Alexander Lehmann.
 
 <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/X9SVf57ii1w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
