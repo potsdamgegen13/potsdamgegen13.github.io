@@ -1,0 +1,45 @@
+nav {
+    background-color: #091534;
+}
+ 
+div.aufruf {
+  color: #ffffff;
+  background-color: #12233f;
+/*  padding: 25px;
+  border: 25px; */
+  margin: 25px;
+}
+
+div.coc {
+    margin: 25px;
+    color: #ffffff;
+    background-color: #12233f;
+}
+
+div.route {
+    margin: 25px;
+    color: #ffffff;
+    background-color: #12233f;
+}
+
+div.contact {
+    margin: 25px;
+    color: #ffffff;
+    background-color: #12233f;
+}
+
+div.hintergrund {
+    margin: 25px;
+    color: #ffffff;
+    background-color: #12233f;
+}
+
+body {
+    margin: 80px;
+/*    background-color: #DBE5FF; */
+    background-image: linear-gradient(to bottom right, #12233f, #ffffff);
+}
+
+bg-white {
+    background-color: #ffffff;
+}
