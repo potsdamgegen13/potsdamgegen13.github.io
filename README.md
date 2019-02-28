@@ -1,66 +1,59 @@
-# potsdamgegen13.github.io
+# Potsdam für ein freies Internet
 
-!! Demobündnis in Gründung !!
+## Demo: 23.03.2019 - 10:00 Uhr Luisenplatz Potsdam
 
-Geplante Demonstration in Potsdam am 23.03.2019 gegen Artikel 11 und 13 der EU Urheberrechtsreform.
+## Gegen Artikel 11 und 13
 
-Kontakt: 
+Die EU-Urheberrechtsreform schreibt vielen Internetseiten und Apps vor, von Nutzerinnen hochgeladene Inhalte auf Urheberrechtsverletzungen zu prüfen. Praktisch allen Plattformen, die Nutzerinneninhalte hosten, droht damit die Pflicht, Uploadfilter einbauen zu müssen. Dieses neue Urheberrecht macht nicht nur Nutzerinnen, sondern auch Urheberinnen das Leben schwer.
+
+**Uploadfilter sind gefährlich für das freie Netz.** Sie richten sich direkt gegen netzkulturelle Phänomene, gegen Meme, Youtube-Videos, Remixe und all den Spaß, den viele so lieben. Sie richten sich gegen Innovation, gefährden neue und alte Projekte. Sie richten sich aber auch gegen das freie Wort. Zum Beispiel treffen sie Whistleblowerinnen, die geschütztes Material zur Aufdeckung von Missständen hochladen. Sie stärken die Macht der großen Konzerne gegenüber Newcomern. Und das sind nur die unmittelbaren Auswirkungen.
+
+**Urheberinnen profitieren von dem aktuellen Gesetzesentwurf nicht!** Das Leistungsschutzrecht in Artikel 11 soll vor allem Verlagen neue Einnahmen sichern. Artikel 12 benachteiligt Autorinnen, Kreative und andere Urheberinnen. Und die Uploadfilter in Artikel 13 schützen nicht etwa die eigentlichen Urheberinnen, sondern sie behindern ihre Arbeit.
+
+**Netz-Biotope sind bedroht.** Viele kleinere Plattformen können den technischen Aufwand für derartige Filter gar nicht leisten. Schier unendlich ist die Anzahl der urheberrechtlich geschützten Werke, gegen die jeder einzelne Upload geprüft werden muss. Sie werden daher gezwungen sein, die Filter an externe Dienstleister wie Google auslagern zu müssen. Und sie haften für den Inhalt der Nutzerinnen.
+
+**Journalismus ist kein Beifang.** Aber die Upload-Filter machen Fehler. Automatisierte Filter sind überhaupt nicht in der Lage, den Kontext von Inhalten einzuschätzen und daher sehr fehleranfällig. Sie können weder zwischen Urheberrechtsverletzungen und schöpferischen Adaptionen unterscheiden, noch zwischen Terrorpropaganda und Berichterstattung über Terrorismus. Die Plattform Youtube, die solche Filter bereits auf freiwilliger Basis einsetzt, sperrte zehntausende Videos, die Kriegsverbrechen dokumentierten, weil in ihnen IS-Flaggen zu sehen waren.
+
+**Meinung braucht keine Auto-Korrektur.** Mit wenig Aufwand kann die jetzt aufzubauende Upload-Infrastruktur auch für ganz andere Zwecke missbraucht werden: Was heute für die Durchsetzung von Urheberrechten genutzt wird, kann morgen schon für die Unterdrückung missliebiger politischer Meinung und Information genutzt werden. Sind die Uploadfilter einmal da, werden sie Begehrlichkeiten wecken bei allen, denen Demokratie und Meinungsfreiheit schon immer ein Dorn im Auge war. Die geplante EU-Verordnung gegen Terrorpropaganda ist da nur der erste Schritt.
+
+**Wir haben kein Vertrauen in Black-Boxes.** Die geplanten Uploadfilter werden massive Auswirkungen auf die Meinungs- und Pressefreiheit haben. Der Zivilgesellschaft fehlen dabei sämtliche demokratische Kontrollmöglichkeiten, um Missbrauch zu verhindern, denn die Algorithmen der Filter sind nicht öffentlich einsehbar. Dafür legt die Einführung einer automatisierten Inhaltskontrolle auf vielen Internetplattformen und Apps den technischen Grundstein für eine mögliche Zensur- und Kontrollinfrastruktur.
+
+Und sie hilft dabei noch nicht einmal den Urheberinnen, eine faire Entlohnung zu bekommen.
+
+Wir wollen uns nicht filtern lassen.
+
+Wir wollen kein europäisches Leistungsschutzrecht.
+
+Wir fordern die Abgeordneten des Europaparlamentes auf, die EU-Urheberrechtsreform in der jetzigen Fassung abzulehnen!
+
+Starten Sie einen neuen Anlauf für eine Reform, die Grund- und Freiheitsrechte nicht bedroht!
+
+Dafür werden wir im Namen der Demokratie und des freien Internets am Samstag, den 23. März um 10 Uhr auf die Straße gehen!
+
+## Demo Route
+
+<iframe width="100%" height="400px" frameBorder="0" allowfullscreen src="http://umap.openstreetmap.fr/en/map/routenplanung-23032019_297763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="http://umap.openstreetmap.fr/en/map/routenplanung-23032019_297763">Karte im Vollbild öffnen</a></p>
+
+## Hintergrund
+
+### Leistungsschutzrecht (Art. 11)
+
+<iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/ph3XfZvpIZo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Uploadfilter (Art. 13)
+
+<iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/X9SVf57ii1w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Code of Conduct
+
+Innerhalb des Demobündnisses legen wir Wert darauf, dass Menschen unabhängig von Geschlecht, sexueller Orientierung, Herkunft, Glauben, Aussehen, Religion oder Alter ohne Belästigungen demonstrieren können. Wir dulden keine sexistischen, rassistischen, homo- oder transfeindlichen, ableistischen oder anderweitig marginalisierte Gruppen diskriminierenden Äußerungen – auch nicht, wenn sie „nur als Witz“ gedacht waren.
+
+Wenn ihr Euch belästigt oder bedrängt fühlt findet ihr bei allen als Ordner*Innen gekennzeichnete Menschen Hilfe.
+
+Teilnehmer*Innen die gegen diese Regeln eines respektvollen Miteinanders verstoßen werden von der Veranstaltung ausgeschlossen.
+
+## Kontakt
 
 art13-potsdam@systemli.org
 
-PGP: 
-
-```
------BEGIN PGP PUBLIC KEY BLOCK-----
-
-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
-b4iK1+y/9P5zG85Hb5JJAkD2T0j7onNjKw==
-=gyfT
------END PGP PUBLIC KEY BLOCK-----
-```
+PGP: [65C5 87F4 B085 7B4C](65C587F4B0857B4C.asc)
