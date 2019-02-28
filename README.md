@@ -32,7 +32,8 @@ Dafür werden wir im Namen der Demokratie und des freien Internets am Samstag, d
 
 ## Demo Route
 
-<iframe width="100%" height="400px" frameBorder="0" allowfullscreen src="http://umap.openstreetmap.fr/en/map/routenplanung-23032019_297763?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="http://umap.openstreetmap.fr/en/map/routenplanung-23032019_297763">Karte im Vollbild öffnen</a></p>
+(map.png)
+[Zur Karte](http://umap.openstreetmap.fr/en/map/routenplanung-23032019_297763)
 
 ## Hintergrund
 
