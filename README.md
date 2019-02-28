@@ -63,7 +63,7 @@ Zu den Uploadfiltern gibt es auch wieder ein schönes Video von Alexander Lehman
 
 <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/X9SVf57ii1w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Das sagen andere...
+## Das sagen andere
 
 * [Electronic Frontier Foundation, (pdf)](https://www.eff.org/files/2018/06/13/article13letter.pdf)
 * [Tim Berners Lee und Jimmy Wales](https://www.golem.de/news/offener-brief-jimmy-wales-und-tim-berners-lee-warnen-vor-uploadfiltern-1806-134935.html)
