@@ -35,7 +35,7 @@ div.hintergrund {
 }
 
 body {
-    margin: 80px;
+    margin: 50px;
 /*    background-color: #DBE5FF; */
     background-image: linear-gradient(to bottom right, #12233f, #ffffff);
 }
