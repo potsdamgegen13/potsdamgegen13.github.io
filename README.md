@@ -2,7 +2,7 @@
 
 ## 23.03.2019 - 10:00 Uhr Luisenplatz
 
-## Gegen Artikel 11 und 13
+## Gegen Artikel 11, 12 und 13 der EU Urheberrechtsreform
 
 Die EU-Urheberrechtsreform schreibt vielen Internetseiten und Apps vor, von Nutzerinnen hochgeladene Inhalte auf Urheberrechtsverletzungen zu prüfen. Praktisch allen Plattformen, die Nutzerinneninhalte hosten, droht damit die Pflicht, Uploadfilter einbauen zu müssen. Dieses neue Urheberrecht macht nicht nur Nutzerinnen, sondern auch Urheberinnen das Leben schwer.
 
@@ -84,12 +84,13 @@ Zu den Uploadfiltern gibt es auch wieder ein schönes Video von Alexander Lehman
   * Jugendpresse Deutschland e. V.
   * Open Knowledge Foundation Deutschland e. V
 * [D64, cnetz, Load e.V. (Digitalverbände der Parteien)](https://www.load-ev.de/wp-content/uploads/2018/06/180629_Schreiben-EP_Uploadfilter_final.pdf)
+* [Bundesdatenschutzbeauftragter Ulrich Kelber](https://www.bfdi.bund.de/DE/Infothek/Pressemitteilungen/2019/10_Uploadfilter.html)
 
 ## Das Demobündnis
 
-Zum 23.03.2019 mobilisieren zahlreiche Gruppen zu dezentralen Protesten in vielen europäischen Städten. Das Potsdamer Demobündnis ist noch im Aufbau. Sobald wir alle Zusagen haben, werdet ihr auf dieser Seite alle Partnerinnen aufgelistet finden.
+Zum 23.03.2019 mobilisieren zahlreiche Gruppen zu dezentralen Protesten in vielen europäischen Städten. Das Potsdamer Demobündnis ist noch im Aufbau. Sobald wir alle Zusagen haben, werdet ihr auf dieser Seite alle Partnerinnen aufgelistet finden. **Interessierte Grupen können sich gerne [an uns](mailto:art13-potsdam@systemli.org) wenden um den Aufruf zu unterstützen.** Oder schaut einfach **Mittwochs um 19 Uhr beim [Chaostreff Potsdam](https://chaostreff-potsdam.github.io/)** in der [MachBar](https://machbar-potsdam.de) vorbei.
 
-Ihr kommt nicht aus Potsdam und möchtet dennoch demonstrieren? [Schaut hier vorbei](https://savetheinternet.info/demos) ob es in Eurer Stadt bereits eine Demonstration gibt, oder [meldet einfach selbst eine Demonstration an](https://netzpolitik.org/2019/protest-auf-die-strasse-bringen-zwoelf-tipps-fuer-deine-erste-demo/).
+Ihr kommt nicht aus Potsdam und möchtet dennoch demonstrieren? [Schaut hier vorbei](https://savetheinternet.info/demos) oder [hier](https://netzpolitik.org/2019/upload-filter-alle-demos-auf-einen-blick/) nach ob es in Eurer Stadt bereits eine Demonstration gibt. Oder [meldet einfach selbst eine Demonstration an](https://netzpolitik.org/2019/protest-auf-die-strasse-bringen-zwoelf-tipps-fuer-deine-erste-demo/).
 
 ## Code of Conduct
 
