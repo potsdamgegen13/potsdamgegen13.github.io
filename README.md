@@ -89,6 +89,8 @@ Zu den Uploadfiltern gibt es auch wieder ein schönes Video von Alexander Lehman
   * Open Knowledge Foundation Deutschland e. V
 * [D64, cnetz, Load e.V. (Digitalverbände der Parteien)](https://www.load-ev.de/wp-content/uploads/2018/06/180629_Schreiben-EP_Uploadfilter_final.pdf)
 * [Bundesdatenschutzbeauftragter Ulrich Kelber](https://www.bfdi.bund.de/DE/Infothek/Pressemitteilungen/2019/10_Uploadfilter.html)
+* [Wikimedia](https://blog.wikimedia.de/2019/02/11/probleme-der-eu-urheberrechtsreform-bleiben-bestehen/)
+* [Zentrale für Unterrichtsmedien im Internet e. V.](https://www.zum.de/portal/blog/ZUMTeam/Offener-Brief-die-Abgeordneten-des-EU-Parlaments)
 
 ## Das Demobündnis
 
