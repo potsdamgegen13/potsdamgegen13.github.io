@@ -8,7 +8,7 @@
 
 ### Route
 
-<img src="map.png" alt="vorlÃ¤ufige Route">
+<img src="map.png" alt="Demo-Route">
 [Zur Karte](http://umap.openstreetmap.fr/en/map/routenplanung-23032019_297763)
 
 ### Gegen Artikel 11, 12 und 13 der EU Urheberrechtsreform
@@ -111,3 +111,17 @@ Teilnehmer*Innen die gegen diese Regeln eines respektvollen Miteinanders verstoÃ
 art13-potsdam@systemli.org
 
 PGP: [65C5 87F4 B085 7B4C](65C587F4B0857B4C.asc)
+
+## SharePics
+
+<a href="sharepic1.png"><img src="sharepic1.png" align="left" height="126" width="192" alt="SharePic1"></a>
+<a href="sharepic2.png"><img src="sharepic2.png" align="left" height="126" width="192" alt="SharePic2"></a>
+<a href="sharepic3.png"><img src="sharepic3.png" align="left" height="126" width="192" alt="SharePic3"></a>
+
+<a href="sharepic4.png"><img src="sharepic4.png" align="left" height="126" width="192" alt="SharePic4"></a>
+<a href="sharepic5.png"><img src="sharepic5.png" align="left" height="126" width="192" alt="SharePic5"></a>
+<a href="sharepic6.png"><img src="sharepic6.png" align="left" height="126" width="192" alt="SharePic6"></a>
+
+<a href="sharepic7.png"><img src="sharepic7.png" align="left" height="126" width="192" alt="SharePic7"></a>
+<a href="sharepic8.png"><img src="sharepic8.png" align="left" height="126" width="192" alt="SharePic8"></a>
+<a href="sharepic_animated.gif"><img src="sharepic_animated.gif" align="left" height="126" width="192" alt="SharePic_animated"></a>
