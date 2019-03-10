@@ -1,6 +1,10 @@
 # Potsdam für ein freies Internet
 
-## 23.03.2019 - 10:00 Uhr Luisenplatz
+## Infoveranstaltung: 20.03.2019 - 19:00 Uhr
+
+[Café Haus Zwei (Freiland)](https://www.freiland-potsdam.de/pages/freiland/orte/ort.php?ID=8#content)
+
+## Demo: 23.03.2019 - 10:00 Uhr Luisenplatz
 
 ## Gegen Artikel 11, 12 und 13 der EU Urheberrechtsreform
 
