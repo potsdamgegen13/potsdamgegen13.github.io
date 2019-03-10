@@ -113,28 +113,17 @@ art13-potsdam@systemli.org
 PGP: [65C5 87F4 B085 7B4C](65C587F4B0857B4C.asc)
 
 ## SharePics
-<p>
-<a href="sharepic1.png"><img src="sharepic1.jpg" align="left" height="126" width="192" alt="SharePic1"></a>
-<a href="sharepic2.png"><img src="sharepic2.jpg" align="left" height="126" width="192" alt="SharePic2"></a>
-<a href="sharepic3.png"><img src="sharepic3.jpg" align="left" height="126" width="192" alt="SharePic3"></a>
 
-<a href="sharepic4.png"><img src="sharepic4.jpg" align="left" height="126" width="192" alt="SharePic4"></a>
-<a href="sharepic5.png"><img src="sharepic5.jpg" align="left" height="126" width="192" alt="SharePic5"></a>
-<a href="sharepic6.png"><img src="sharepic6.jpg" align="left" height="126" width="192" alt="SharePic6"></a>
-
-<a href="sharepic7.png"><img src="sharepic7.jpg" align="left" height="126" width="192" alt="SharePic7"></a>
-<a href="sharepic8.png"><img src="sharepic8.jpg" align="left" height="126" width="192" alt="SharePic8"></a>
-<a href="sharepic_animated.gif"><img src="sharepic_animated.gif" align="left" height="126" width="192" alt="SharePic_animated"></a>
-</p>
-
-
-
-
-
-
-
-
-
-
-
-.
+<div>
+ <section id="sharepcissection" class="inner">
+   <a href="sharepic1.png"><img src="sharepic1.jpg" align="left" height="126" width="192" alt="SharePic1"></a>
+   <a href="sharepic2.png"><img src="sharepic2.jpg" align="left" height="126" width="192" alt="SharePic2"></a>
+   <a href="sharepic3.png"><img src="sharepic3.jpg" align="left" height="126" width="192" alt="SharePic3"></a>
+   <a href="sharepic4.png"><img src="sharepic4.jpg" align="left" height="126" width="192" alt="SharePic4"></a>
+   <a href="sharepic5.png"><img src="sharepic5.jpg" align="left" height="126" width="192" alt="SharePic5"></a>
+   <a href="sharepic6.png"><img src="sharepic6.jpg" align="left" height="126" width="192" alt="SharePic6"></a>
+   <a href="sharepic7.png"><img src="sharepic7.jpg" align="left" height="126" width="192" alt="SharePic7"></a>
+   <a href="sharepic8.png"><img src="sharepic8.jpg" align="left" height="126" width="192" alt="SharePic8"></a>
+   <a href="sharepic_animated.gif"><img src="sharepic_animated.gif" align="left" height="126" width="192" alt="SharePic_animated"></a>
+ </section>
+</div>
