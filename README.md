@@ -6,12 +6,12 @@
 
 ## Demo: 23.03.2019 - 10:00 Uhr Luisenplatz
 
-## Route
+### Route
 
 <img src="map.png" alt="vorläufige Route">
 [Zur Karte](http://umap.openstreetmap.fr/en/map/routenplanung-23032019_297763)
 
-## Gegen Artikel 11, 12 und 13 der EU Urheberrechtsreform
+### Gegen Artikel 11, 12 und 13 der EU Urheberrechtsreform
 
 Die EU-Urheberrechtsreform schreibt vielen Internetseiten und Apps vor, von Nutzerinnen hochgeladene Inhalte auf Urheberrechtsverletzungen zu prüfen. Praktisch allen Plattformen, die Nutzerinneninhalte hosten, droht damit die Pflicht, Uploadfilter einbauen zu müssen. Dieses neue Urheberrecht macht nicht nur Nutzerinnen, sondern auch Urheberinnen das Leben schwer.
 
