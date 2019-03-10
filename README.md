@@ -6,6 +6,11 @@
 
 ## Demo: 23.03.2019 - 10:00 Uhr Luisenplatz
 
+## Route
+
+<img src="map.png" alt="vorläufige Route">
+[Zur Karte](http://umap.openstreetmap.fr/en/map/routenplanung-23032019_297763)
+
 ## Gegen Artikel 11, 12 und 13 der EU Urheberrechtsreform
 
 Die EU-Urheberrechtsreform schreibt vielen Internetseiten und Apps vor, von Nutzerinnen hochgeladene Inhalte auf Urheberrechtsverletzungen zu prüfen. Praktisch allen Plattformen, die Nutzerinneninhalte hosten, droht damit die Pflicht, Uploadfilter einbauen zu müssen. Dieses neue Urheberrecht macht nicht nur Nutzerinnen, sondern auch Urheberinnen das Leben schwer.
@@ -33,11 +38,6 @@ Wir fordern die Abgeordneten des Europaparlamentes auf, die EU-Urheberrechtsrefo
 Starten Sie einen neuen Anlauf für eine Reform, die Grund- und Freiheitsrechte nicht bedroht!
 
 Dafür werden wir im Namen der Demokratie und des freien Internets am Samstag, den 23. März um 10 Uhr auf die Straße gehen!
-
-## Demo Route
-
-<img src="map.png" alt="vorläufige Route">
-[Zur Karte](http://umap.openstreetmap.fr/en/map/routenplanung-23032019_297763)
 
 ## Hintergrund
 
