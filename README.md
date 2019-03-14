@@ -94,9 +94,19 @@ Zu den Uploadfiltern gibt es auch wieder ein schönes Video von Alexander Lehman
 
 ## Das Demobündnis
 
-Zum 23.03.2019 mobilisieren zahlreiche Gruppen zu dezentralen Protesten in vielen europäischen Städten. Das Potsdamer Demobündnis ist noch im Aufbau. Sobald wir alle Zusagen haben, werdet ihr auf dieser Seite alle Partnerinnen aufgelistet finden. **Interessierte Gruppen können sich gerne [an uns](mailto:art13-potsdam@systemli.org) wenden um den Aufruf zu unterstützen.** Oder schaut einfach **Mittwochs um 19 Uhr beim [Chaostreff Potsdam](https://chaostreff-potsdam.github.io/)** in der [MachBar](https://machbar-potsdam.de) vorbei.
+Zum 23.03.2019 mobilisieren zahlreiche Gruppen zu dezentralen Protesten in vielen europäischen Städten. Das Potsdamer Demobündnis setzt sich zusammen aus:
 
-Ihr kommt nicht aus Potsdam und möchtet dennoch demonstrieren? [Schaut hier vorbei](https://savetheinternet.info/demos) oder [hier](https://netzpolitik.org/2019/upload-filter-alle-demos-auf-einen-blick/) nach ob es in Eurer Stadt bereits eine Demonstration gibt. Oder [meldet einfach selbst eine Demonstration an](https://netzpolitik.org/2019/protest-auf-die-strasse-bringen-zwoelf-tipps-fuer-deine-erste-demo/).
+* Chaostreff Potsdam
+* Grüne Jugend Brandenburg
+* Bündnis 90/Die Grünen Brandenburg
+* MachBar
+* Piratenpartei Potsdam
+* Linksjugend ['solid] Brandenburg 
+* Wissenschaftsladen
+
+**Interessierte Gruppen können sich gerne [an uns](mailto:art13-potsdam@systemli.org) wenden um den Aufruf zu unterstützen.** Oder schaut einfach **Mittwochs um 19 Uhr beim [Chaostreff Potsdam](https://chaostreff-potsdam.github.io/)** in der [MachBar](https://machbar-potsdam.de) vorbei.
+
+Ihr kommt nicht aus Potsdam und möchtet dennoch demonstrieren? [Schaut hier](https://savetheinternet.info/demos) oder [hier](https://netzpolitik.org/2019/upload-filter-alle-demos-auf-einen-blick/) nach ob es in Eurer Stadt bereits eine Demonstration gibt. Oder [meldet einfach selbst eine Demonstration an](https://netzpolitik.org/2019/protest-auf-die-strasse-bringen-zwoelf-tipps-fuer-deine-erste-demo/).
 
 ## Code of Conduct
 
