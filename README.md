@@ -2,7 +2,10 @@
 
 ## Infoveranstaltung: 20.03.2019 - 19:00 Uhr
 
-[Café Haus Zwei (Freiland)](https://www.freiland-potsdam.de/pages/freiland/orte/ort.php?ID=8#content)
+### Das Chaostreff Potsdam lädt ein:
+
+Im Vorfeld der großen Demos gegen die EU-Urheberrechtsreform am 23.03. findet im [Café Haus Zwei](https://www.freiland-potsdam.de/pages/freiland/orte/ort.php?ID=8#content) auf dem freiLand am **Mittwoch den 20.3. ab 19:00 Uhr** eine **Informationsveranstaltung** zur Reform statt. [Mathias Schindler](https://twitter.com/presroi) wird über den Richtlinienentwurf sowie unsere Kritik sprechen und zur Diskussion einladen.
+Nach der Veranstaltung wird es die Möglichkeit geben Plakate für die Demo am 23.3. zu gestalten.
 
 ## Demo: 23.03.2019 - 10:00 Uhr Luisenplatz
 
