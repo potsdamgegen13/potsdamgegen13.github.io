@@ -96,9 +96,11 @@ Zu den Uploadfiltern gibt es auch wieder ein schönes Video von Alexander Lehman
 
 Zum 23.03.2019 mobilisieren zahlreiche Gruppen zu dezentralen Protesten in vielen europäischen Städten. Das Potsdamer Demobündnis setzt sich zusammen aus:
 
-* Chaostreff Potsdam
-* Grüne Jugend Brandenburg
 * Bündnis 90/Die Grünen Brandenburg
+* Chaostreff Potsdam
+* DIE aNDERE
+* Grüne Jugend Brandenburg
+* Junge Liberale Potsdam
 * MachBar
 * Piratenpartei Potsdam
 * Linksjugend ['solid] Brandenburg 
